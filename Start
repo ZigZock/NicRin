@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="de">
+	
+	<head>
+		
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<link rel="stylesheet" href="styles/styles.css">
+		<link rel="icon" href="pic/internet.png">
+		<script src="java/script.js"></script> 
+		
+		<title> Profilarbeit Niclas und Joshua </title>
+		
+	</head>
+	
+	<body>
+		<div id="mainPage">
+		<header>
+			<ul>
+				<li><a class="active" href="start.html"><strong> Start </strong></a></li>
+				<li><a href="problem.html"><strong> Problem </strong></a></li>
+				<li><a href="auswirkung.html"><strong> Auswirkung </strong></a></li>
+				<li><a href="losung.html"><strong> L&oumlsung </strong></a></li>
+			</ul>
+		</header>
+				
+		<section>
+				<div class="introBox" align="justify">
+				<div class="topic">
+					<h1><b>Gef&aumlhrliches Surfen </b></h1>
+					<h2><b>- Auswirkung des Internets auf die Umwelt -</b></h2>
+				</div>
+					Das Internet ist schon lange kein Luxus mehr. Immer mehr Menschen bedienen sich an dem riesigen Spektrum voller Wissen,
+					Informationen und Unterhaltung. Im Jahr 2018 waren es alleine in Deutschland 74,5 Millionen Menschen, 
+					das sind rund 90% der Bev&ouml;lkerung, die das Internet genutzt haben.
+					Schon l&auml;ngst benutzen wir es allt&auml;glich und k&ouml;nnen uns kein Leben mehr ohne vorstellen. 
+					Durch Plattformen wie Amazon k&ouml;nnen wir Sachen aus aller Welt kaufen und erwarten es schon nach wenigen Tagen.
+					Streaming Anbieter wie Netflix und Amazon Prime unterhalten uns auf Abruf mit den neuesten Serien und haben Videotheken nahezu komplett ersetzt.
+					Jeder weiß wie man das Internet verwendet, doch nur wenige sind sich den Auswirkungen bewusst.</br>
+					Alleine die Internetnutzung in Deutschland produziert rund 33 Millionen Tonnen CO2-Emissionen im Jahr, so viel wie der innerdeutsche Luftverkehr.
+					Die Rechenzentren verbrauchen unmengen an Energie und haben mitunter eigene Kraftwerke, die den Strom produzieren, um die Server zu k&uuml;hlen.
+					Die Folgen die dadurch entstehen k&ouml;nnen auch uns betreffen. 
+					Der Bau von Serverfarmen f&uuml;hrt zu Bodendegradation und die Steigung des Meeresspiegels kann zu mehr &Uuml;berschwemmungen f&uuml;hren. 
+					Wir haben uns damit welche Probleme durch die Internetnutzung entstehen, welche Auswirkungen sie haben und was man tun kann,
+					um die Umwelt w&auml;hrend des Surfens zu sch&uuml;tzen.
+				</div>
+				
+				<div class="startBox">
+
+					<div class="trippleBox" id="over">
+						<a href="problem.html"><img class="startImg" src="pic/ProblemBild.jpg" alt="kuh" align="absbottom">
+						<span class="startText"><h2>Allgemine Informationen</h2><h3>-Das Problem-</h3></span></a>
+					</div>
+					<div class="trippleBox" id="over">
+						<a href="auswirkung.html"><img class="startImg" src="pic/AuswirkungBild.jpg" alt="kuh" align="absbottom">
+						<span class="startText"><h2>Folgen der Nutzung</h2><h3> -Die Auswirkung- </h3></span></a>
+					</div>
+					<div class="trippleBox" id="over">
+						<a href="losung.html"><img class="startImg" src="pic/LosungBild2.jpg" alt="kuh" align="absbottom">
+						<span class="startText"><h2>Die gr&uuml;ne Alternative?</h2><h3> -Die L&oumlsung- </h3></span></a>
+					</div>
+					
+				</div>
+		</section>
+		
+		<footer>
+			<a id="quellen" href="quellen.html">Quellen</a>
+		</footer>
+		</div>
+	</body>
+	
+</html>
